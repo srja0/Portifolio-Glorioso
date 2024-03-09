@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ef34d7a.css",
+    "main.js": "/static/js/main.a4ac8b33.js",
+    "static/js/592.d34da4b2.chunk.js": "/static/js/592.d34da4b2.chunk.js",
+    "static/media/background.svg": "/static/media/background.d60fb636bf55a60cbd07.svg",
+    "static/media/react.svg": "/static/media/react.b0428cddba17bac87d1fc44e9b8fa202.svg",
+    "static/media/capabootcamp.svg": "/static/media/capabootcamp.b62137fd670c82e4d6acb16a280b768d.svg",
+    "static/media/capaportifolio.svg": "/static/media/capaportifolio.068bada57070433b102130ac177604e3.svg",
+    "static/media/lpdnc.svg": "/static/media/lpdnc.bc8bebae7c317d6dd24d26a22d0dda3d.svg",
+    "static/media/css.svg": "/static/media/css.e42c7e1e8c0982f30212091e2cd98a39.svg",
+    "static/media/typescript.svg": "/static/media/typescript.3483cd15d5ce6607a99117e0096f6f4b.svg",
+    "static/media/javascript.svg": "/static/media/javascript.b4410990fc5595e84a028ef676278c26.svg",
+    "static/media/html.svg": "/static/media/html.004778f42521f02f92310c6cc5b54dee.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.2ef34d7a.css.map": "/static/css/main.2ef34d7a.css.map",
+    "main.a4ac8b33.js.map": "/static/js/main.a4ac8b33.js.map",
+    "592.d34da4b2.chunk.js.map": "/static/js/592.d34da4b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef34d7a.css",
+    "static/js/main.a4ac8b33.js"
+  ]
+}
